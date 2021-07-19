@@ -1,0 +1,17 @@
+{
+    "name": "acs/indicacao",
+    "description": "Indicacao Usuarios",
+    "authors": [
+        {
+            "name": "Anderson Silva",
+            "email": "skydobosque@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/",
+            "ACS\\": "src/acs"
+        }
+    }
+}
